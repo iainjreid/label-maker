@@ -1,0 +1,19 @@
+{
+  "name": "label-maker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main/main.js",
+  "scripts": {
+    "lint": "eslint .",
+    "start": "electron ."
+  },
+  "eslintConfig": {
+    "extends": "@emphori"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@emphori/eslint-config": "^0.1.4",
+    "electron": "^6.0.10",
+    "eslint": "^6.5.0"
+  }
+}

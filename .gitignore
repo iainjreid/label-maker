@@ -1,0 +1,3 @@
+# Ignore NPM and Node.js paths
+/node_modules/
+/npm-debug.log
